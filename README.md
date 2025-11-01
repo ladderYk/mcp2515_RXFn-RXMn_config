@@ -20,5 +20,5 @@ M3: SIDH: 1111 0000 << 3 | SIDL: 1110 0000 >> 5
 |       | M1    | M2     | M3    |
 | :-----| ----: | :----: |:----: |
 | 0x85: 000 1000 0101  | true  | true   | true |
-| 0x84: 000 1000 0101 | false | true |  false |
+| 0x84: 000 1000 0100 | false | true |  false |
 | 0x45: 000 0100 0101 | false | false |  true |
